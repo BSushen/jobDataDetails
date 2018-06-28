@@ -8,6 +8,8 @@
             "experience":3,
             "postedBy":"Sushen",
             "company":"Amaris",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"Software engineer with 3 years of experience and strong in .net"
         },
         {
@@ -18,6 +20,8 @@
             "experience":2,
             "postedBy":"Priyanka",
             "company":"EY",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"Account payble and receiviable"
         },
         {
@@ -28,6 +32,8 @@
             "experience":4,
             "postedBy":"Sunit",
             "company":"Wipro",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"HTML, CSS, Javascript, Bootstrap"
         },
         {
@@ -38,6 +44,8 @@
             "experience":2,
             "postedBy":"Sushen",
             "company":"XYZ",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"Should have good knowledge on French language and should have teaching experience"
         },
         {
@@ -48,6 +56,8 @@
             "experience":5,
             "postedBy":"Kapil",
             "company":"Big Basket",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"Managemant experience"
         },
         {
@@ -58,7 +68,9 @@
             "experience":5,
             "postedBy":"Sushen",
             "company":"TCS",
-            "description":"Should have handson experience in java development"
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
+            "description":"Should have handson experience in java development ahoehieoc eihjoie eiofhoe foiehfoehifewoufhiew fuh efiuwefi uwei ewfgc iewugfwieu fwefu hweifu hweifuh ewifhucwicwiecb ewi cbweic iewcbwiecbwicbw echuewicb ewicb ewicybwiewub ciewubc iewb ciewucbiwecbiewubc uiew bcuiewhc uiewchbuiewch wuiech wieuhcv wuv wiugvwiugviwu viwv giwgv iwegvwiegiuegfeifbiwe ciweg fiewgciweg ciwg ciwgc iyewgc iewcgiew cgiew cgiewgc iewugc iwuegcuiwegh cuiewgc iwegc iewgci ewg ciwegc iewgc iewgc iewugc iwuegc iuewgc iuewgci ewugciuewgc iugwe cuiwgeicg ewuicgiwegciwuecgui wecg iwucgewi cg"
         },
         {
             "id":7,
@@ -68,6 +80,8 @@
             "experience":8,
             "postedBy":"Atul",
             "company":"Wipro",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"Should be a certified scrum master"
         },
         {
@@ -78,6 +92,8 @@
             "experience":5,
             "postedBy":"Sushen",
             "company":"TCS",
+            "contact":9742877887,
+            "email":"sushen.birari@gmail.com",
             "description":"Should have knowledge in cloude based development"
         }
     ]
